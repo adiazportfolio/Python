@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of basic Python skills such as adding variables #########.
+Project consists of basic Python skills such as adding variables, writing conditional statements, creating loops, defining and calling functions, and more.
 <br />
 
 
